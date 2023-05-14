@@ -1,0 +1,15 @@
+.DS_Store
+.github
+.gitignore
+.idea
+.venv
+.git
+.ipynb_checkpoints
+__pycache__
+tests
+_releaser
+_site
+CONTRIBUTING.md
+Dockerfile
+docker-compose.yml
+/vendor

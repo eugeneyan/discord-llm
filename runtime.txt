@@ -1,0 +1,2 @@
+# For railway.app
+python -3.9.7
