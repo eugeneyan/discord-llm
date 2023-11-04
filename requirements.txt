@@ -59,7 +59,7 @@ jupyter_server==2.5.0
 jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.6
-langchain==0.0.123
+langchain==0.0.325
 loguru==0.6.0
 MarkupSafe==2.1.2
 marshmallow==3.19.0
